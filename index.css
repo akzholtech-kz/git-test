@@ -1,0 +1,45 @@
+body {
+    background-color: #ffA;
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    color: red;
+}
+span {
+    margin-top: 30px;
+}
+button{
+    width: 250px;
+    margin: 10px;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 2px;
+    color: floralwhite;
+    background-color: grey;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(173, 68, 112);
+    transition: all 0.9s ease;
+}
+
+
+input{
+    padding: 10px 20px;
+    width: 100%;
+}
+#input-btn{
+    background-color: #5f9341;
+}
+#delete-btn{
+    background-color: transparent;
+    border: 2px solid #5f9341;
+    color:steelblue
+}
+
+.myBox{
+    background-color: #5f9341;
+}
